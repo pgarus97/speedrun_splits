@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Rhythm Tengoku</GameName>
+  <CategoryName>Any% Blindfolded</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>13</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/22/2023 14:38:37" isStartedSynced="True" ended="02/22/2023 14:38:55" isEndedSynced="True" />
+    <Attempt id="2" started="02/22/2023 14:39:33" isStartedSynced="True" ended="02/22/2023 14:41:10" isEndedSynced="True" />
+    <Attempt id="3" started="02/22/2023 14:41:44" isStartedSynced="True" ended="02/22/2023 15:58:39" isEndedSynced="True">
+      <RealTime>01:16:54.8650000</RealTime>
+    </Attempt>
+    <Attempt id="4" started="02/22/2023 16:09:04" isStartedSynced="True" ended="02/22/2023 16:14:24" isEndedSynced="True" />
+    <Attempt id="5" started="02/22/2023 16:25:19" isStartedSynced="True" ended="02/22/2023 16:25:23" isEndedSynced="True" />
+    <Attempt id="6" started="03/01/2023 14:49:31" isStartedSynced="True" ended="03/01/2023 14:51:08" isEndedSynced="True" />
+    <Attempt id="7" started="03/01/2023 14:51:39" isStartedSynced="True" ended="03/01/2023 14:57:44" isEndedSynced="True" />
+    <Attempt id="8" started="03/01/2023 14:58:39" isStartedSynced="True" ended="03/01/2023 16:00:37" isEndedSynced="True">
+      <RealTime>01:01:58.3760000</RealTime>
+    </Attempt>
+    <Attempt id="9" started="03/01/2023 16:06:58" isStartedSynced="True" ended="03/01/2023 16:07:11" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Remix1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:59.5400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:59.5400000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:10:11.8350000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="8">
+          <RealTime>00:09:59.5400000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Remix2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:33.5650000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:34.0250000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:14:28.2990000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="8">
+          <RealTime>00:10:34.0250000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Remix3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:29:01.8310000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:28.2660000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:23:15.2120000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="8">
+          <RealTime>00:08:28.2660000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Remix4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:40:14.3940000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:44.3380000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:09:44.3380000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="8">
+          <RealTime>00:11:12.5630000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Remix5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:49:48.6450000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:34.2510000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:19:09.8210000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="8">
+          <RealTime>00:09:34.2510000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Remix6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:01:58.3760000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:09.7310000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>01:04:50</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:12:09.7310000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario 64</GameName>
+  <CategoryName>HMC Stage RTA Blindfolded</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>47</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="10/29/2021 13:25:11" isStartedSynced="True" ended="10/29/2021 13:25:46" isEndedSynced="True" />
+    <Attempt id="2" started="10/29/2021 13:26:11" isStartedSynced="True" ended="10/29/2021 13:26:22" isEndedSynced="True" />
+    <Attempt id="3" started="10/29/2021 13:26:28" isStartedSynced="True" ended="10/29/2021 13:28:16" isEndedSynced="True" />
+    <Attempt id="4" started="10/29/2021 13:28:34" isStartedSynced="True" ended="10/29/2021 13:28:52" isEndedSynced="True" />
+    <Attempt id="5" started="10/29/2021 13:28:57" isStartedSynced="True" ended="10/29/2021 13:30:51" isEndedSynced="True" />
+    <Attempt id="6" started="10/29/2021 13:31:01" isStartedSynced="True" ended="10/29/2021 13:33:03" isEndedSynced="True" />
+    <Attempt id="7" started="10/29/2021 13:34:27" isStartedSynced="True" ended="10/29/2021 13:38:41" isEndedSynced="True" />
+    <Attempt id="8" started="10/29/2021 13:40:43" isStartedSynced="True" ended="10/29/2021 13:45:41" isEndedSynced="True" />
+    <Attempt id="9" started="10/29/2021 13:47:00" isStartedSynced="True" ended="10/29/2021 13:47:13" isEndedSynced="True" />
+    <Attempt id="10" started="10/29/2021 13:47:20" isStartedSynced="True" ended="10/29/2021 13:52:50" isEndedSynced="True" />
+    <Attempt id="11" started="10/29/2021 13:54:39" isStartedSynced="True" ended="10/29/2021 14:16:55" isEndedSynced="True" />
+    <Attempt id="12" started="10/29/2021 14:27:36" isStartedSynced="True" ended="10/29/2021 14:29:57" isEndedSynced="True" />
+    <Attempt id="13" started="10/29/2021 14:33:50" isStartedSynced="True" ended="10/29/2021 14:39:35" isEndedSynced="True" />
+    <Attempt id="14" started="10/29/2021 14:39:42" isStartedSynced="True" ended="10/29/2021 14:48:23" isEndedSynced="True" />
+    <Attempt id="15" started="10/29/2021 14:52:07" isStartedSynced="True" ended="10/29/2021 15:00:18" isEndedSynced="True" />
+    <Attempt id="16" started="11/02/2021 12:21:13" isStartedSynced="False" ended="11/02/2021 12:28:48" isEndedSynced="True" />
+    <Attempt id="17" started="11/02/2021 12:28:50" isStartedSynced="True" ended="11/02/2021 12:41:59" isEndedSynced="True" />
+    <Attempt id="18" started="11/02/2021 12:48:10" isStartedSynced="True" ended="11/02/2021 12:48:48" isEndedSynced="True" />
+    <Attempt id="19" started="11/02/2021 12:49:23" isStartedSynced="True" ended="11/02/2021 12:49:53" isEndedSynced="True" />
+    <Attempt id="20" started="11/02/2021 12:50:41" isStartedSynced="True" ended="11/02/2021 12:59:20" isEndedSynced="True" />
+    <Attempt id="21" started="11/02/2021 13:03:19" isStartedSynced="True" ended="11/02/2021 13:03:31" isEndedSynced="True" />
+    <Attempt id="22" started="11/02/2021 13:03:33" isStartedSynced="True" ended="11/02/2021 13:03:35" isEndedSynced="True" />
+    <Attempt id="23" started="11/02/2021 13:04:18" isStartedSynced="True" ended="11/02/2021 13:05:30" isEndedSynced="True" />
+    <Attempt id="24" started="11/02/2021 13:06:09" isStartedSynced="True" ended="11/02/2021 13:18:39" isEndedSynced="True" />
+    <Attempt id="25" started="11/02/2021 13:20:25" isStartedSynced="True" ended="11/02/2021 13:28:41" isEndedSynced="True" />
+    <Attempt id="26" started="11/02/2021 13:41:18" isStartedSynced="True" ended="11/02/2021 13:45:40" isEndedSynced="True" />
+    <Attempt id="27" started="11/02/2021 13:48:12" isStartedSynced="True" ended="11/02/2021 13:51:18" isEndedSynced="True" />
+    <Attempt id="28" started="11/02/2021 13:52:07" isStartedSynced="True" ended="11/02/2021 13:57:26" isEndedSynced="True" />
+    <Attempt id="29" started="11/02/2021 14:02:05" isStartedSynced="True" ended="11/02/2021 14:02:14" isEndedSynced="True" />
+    <Attempt id="30" started="11/02/2021 14:02:15" isStartedSynced="True" ended="11/02/2021 14:13:14" isEndedSynced="True" />
+    <Attempt id="31" started="11/02/2021 14:14:21" isStartedSynced="True" ended="11/02/2021 14:14:33" isEndedSynced="True" />
+    <Attempt id="32" started="11/02/2021 14:15:49" isStartedSynced="True" ended="11/02/2021 14:17:04" isEndedSynced="True" />
+    <Attempt id="33" started="11/02/2021 14:17:55" isStartedSynced="True" ended="11/02/2021 14:18:27" isEndedSynced="True" />
+    <Attempt id="34" started="11/02/2021 14:18:51" isStartedSynced="True" ended="11/02/2021 14:20:44" isEndedSynced="True" />
+    <Attempt id="35" started="11/02/2021 14:22:45" isStartedSynced="True" ended="11/02/2021 14:34:30" isEndedSynced="True" />
+    <Attempt id="36" started="11/02/2021 14:35:13" isStartedSynced="True" ended="11/02/2021 14:59:47" isEndedSynced="True">
+      <RealTime>00:24:33.6940000</RealTime>
+    </Attempt>
+    <Attempt id="37" started="11/02/2021 15:28:59" isStartedSynced="True" ended="11/02/2021 15:29:05" isEndedSynced="True" />
+    <Attempt id="38" started="04/22/2022 11:29:05" isStartedSynced="True" ended="04/22/2022 11:29:20" isEndedSynced="True" />
+    <Attempt id="39" started="04/22/2022 11:29:38" isStartedSynced="True" ended="04/22/2022 11:30:10" isEndedSynced="True" />
+    <Attempt id="40" started="04/22/2022 11:30:29" isStartedSynced="True" ended="04/22/2022 11:33:33" isEndedSynced="True" />
+    <Attempt id="41" started="04/22/2022 11:34:07" isStartedSynced="True" ended="04/22/2022 11:38:17" isEndedSynced="True" />
+    <Attempt id="42" started="04/22/2022 11:44:37" isStartedSynced="True" ended="04/22/2022 11:44:45" isEndedSynced="True" />
+    <Attempt id="43" started="04/22/2022 11:44:47" isStartedSynced="True" ended="04/22/2022 11:59:34" isEndedSynced="True" />
+    <Attempt id="44" started="04/22/2022 12:07:33" isStartedSynced="True" ended="04/22/2022 12:26:06" isEndedSynced="True">
+      <RealTime>00:18:32.7710000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>100</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:11.3790000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:56.7550000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="44">
+          <RealTime>00:13:11.3790000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:13:24.1480000</RealTime>
+        </Time>
+        <Time id="43">
+          <RealTime>00:12:56.7550000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Reds</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:59.8910000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:48.5120000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="16">
+          <RealTime>00:02:05.8400000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:04:42.1850000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:00:48.5120000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Nessy</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:30.2110000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:44.2400000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:00:44.2400000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:01:30.3200000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Christmas</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:58.2750000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:28.0640000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:01:29.2880000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:01:28.0640000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Toxic</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:29.8120000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:31.5370000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:01:34.5930000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:00:31.5370000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Amazing</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:30.6140000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:00.8020000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:01:18.6840000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:01:00.8020000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Rolling</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:32.7710000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:02.1570000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="36">
+          <RealTime>00:01:20.5560000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:00:02.1570000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
