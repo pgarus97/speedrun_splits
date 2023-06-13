@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario 64</GameName>
+  <CategoryName>WF Stage RTA (70 Route)</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>7</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/22/2023 14:08:07" isStartedSynced="True" ended="02/22/2023 14:08:36" isEndedSynced="True" />
+    <Attempt id="2" started="02/22/2023 14:08:39" isStartedSynced="True" ended="02/22/2023 14:12:24" isEndedSynced="True">
+      <RealTime>00:03:44.9850000</RealTime>
+    </Attempt>
+    <Attempt id="3" started="02/22/2023 14:14:44" isStartedSynced="True" ended="02/22/2023 14:15:06" isEndedSynced="True" />
+    <Attempt id="4" started="02/22/2023 14:15:09" isStartedSynced="True" ended="02/22/2023 14:17:24" isEndedSynced="True" />
+    <Attempt id="5" started="02/22/2023 14:17:32" isStartedSynced="True" ended="02/22/2023 14:21:08" isEndedSynced="True">
+      <RealTime>00:03:36.0090000</RealTime>
+    </Attempt>
+    <Attempt id="6" started="02/22/2023 14:22:16" isStartedSynced="True" ended="02/22/2023 14:25:28" isEndedSynced="True">
+      <RealTime>00:03:12.0090000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Whomp</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:43.9930000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:43.9930000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:50.2880000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:49.5120000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:44.5690000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:43.9930000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Cannonless</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:26.9210000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:40.7040000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:40.7040000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:58.1840000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:54.3440000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:42.9280000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Blue</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:56.4970000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:29.1360000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:29.1360000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:40.7600000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:29.5760000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Tower</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:38.4330000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:41.9360000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:42.1360000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:43.6160000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:41.9360000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Owl</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:12.0090000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:32.7200000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:02.7210000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:32.7200000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:33.5760000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

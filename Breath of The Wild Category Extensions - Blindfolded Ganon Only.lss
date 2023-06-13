@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Breath of The Wild Category Extensions</GameName>
+  <CategoryName>Blindfolded</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>21</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="05/02/2023 13:54:25" isStartedSynced="True" ended="05/02/2023 13:54:27" isEndedSynced="True" />
+    <Attempt id="2" started="05/02/2023 13:56:40" isStartedSynced="True" ended="05/02/2023 14:03:15" isEndedSynced="True" />
+    <Attempt id="3" started="05/02/2023 14:12:30" isStartedSynced="True" ended="05/02/2023 14:27:17" isEndedSynced="True">
+      <RealTime>00:14:46.4209990</RealTime>
+    </Attempt>
+    <Attempt id="4" started="05/02/2023 14:30:34" isStartedSynced="True" ended="05/02/2023 14:42:31" isEndedSynced="True">
+      <RealTime>00:11:56.5319360</RealTime>
+    </Attempt>
+    <Attempt id="5" started="05/02/2023 14:55:42" isStartedSynced="True" ended="05/02/2023 14:57:24" isEndedSynced="True" />
+    <Attempt id="6" started="05/02/2023 15:00:08" isStartedSynced="True" ended="05/02/2023 15:06:21" isEndedSynced="True" />
+    <Attempt id="7" started="05/03/2023 13:40:10" isStartedSynced="True" ended="05/03/2023 13:40:18" isEndedSynced="True" />
+    <Attempt id="8" started="05/03/2023 13:40:22" isStartedSynced="True" ended="05/03/2023 13:41:15" isEndedSynced="True" />
+    <Attempt id="9" started="05/03/2023 13:41:49" isStartedSynced="True" ended="05/03/2023 13:43:15" isEndedSynced="True" />
+    <Attempt id="10" started="05/03/2023 13:44:38" isStartedSynced="True" ended="05/03/2023 13:45:27" isEndedSynced="True" />
+    <Attempt id="11" started="05/03/2023 13:45:54" isStartedSynced="True" ended="05/03/2023 13:48:48" isEndedSynced="True" />
+    <Attempt id="12" started="05/03/2023 13:49:32" isStartedSynced="True" ended="05/03/2023 13:53:33" isEndedSynced="True" />
+    <Attempt id="13" started="05/03/2023 14:09:25" isStartedSynced="True" ended="05/03/2023 14:14:58" isEndedSynced="True">
+      <RealTime>00:05:33.0334889</RealTime>
+    </Attempt>
+    <Attempt id="14" started="05/03/2023 14:26:07" isStartedSynced="True" ended="05/03/2023 14:27:00" isEndedSynced="True" />
+    <Attempt id="15" started="05/03/2023 14:27:33" isStartedSynced="True" ended="05/03/2023 14:29:27" isEndedSynced="True" />
+    <Attempt id="16" started="05/03/2023 14:34:41" isStartedSynced="True" ended="05/03/2023 14:34:51" isEndedSynced="True" />
+    <Attempt id="17" started="05/03/2023 14:35:19" isStartedSynced="True" ended="05/03/2023 14:35:48" isEndedSynced="True" />
+    <Attempt id="18" started="05/03/2023 14:36:20" isStartedSynced="True" ended="05/03/2023 14:36:33" isEndedSynced="True" />
+    <Attempt id="19" started="05/03/2023 14:37:05" isStartedSynced="True" ended="05/03/2023 14:39:01" isEndedSynced="True" />
+    <Attempt id="20" started="05/03/2023 14:43:39" isStartedSynced="True" ended="05/03/2023 14:44:57" isEndedSynced="True" />
+    <Attempt id="21" started="05/03/2023 14:45:27" isStartedSynced="True" ended="05/03/2023 14:48:51" isEndedSynced="True">
+      <RealTime>00:03:23.5607469</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Ganon1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:11.9851785</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:34.6973988</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="11">
+          <RealTime>00:02:35.6739824</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:09:31.4026070</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:34.6973988</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:24.3677867</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:02:11.9851785</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ganon2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:23.5607469</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:11.5755684</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:05:11.3302380</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:25.1293270</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:08.6657022</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:01:11.5755684</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

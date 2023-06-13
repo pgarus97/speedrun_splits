@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Mario Kart 64</GameName>
+  <CategoryName>Mushroom Cup</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>28</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="10/30/2022 13:01:59" isStartedSynced="True" ended="10/30/2022 13:02:06" isEndedSynced="True" />
+    <Attempt id="2" started="10/30/2022 13:15:14" isStartedSynced="True" ended="10/30/2022 13:16:39" isEndedSynced="True" />
+    <Attempt id="3" started="10/30/2022 13:23:35" isStartedSynced="True" ended="10/30/2022 13:32:41" isEndedSynced="True" />
+    <Attempt id="4" started="10/30/2022 13:36:24" isStartedSynced="True" ended="10/30/2022 13:38:15" isEndedSynced="True" />
+    <Attempt id="5" started="10/30/2022 13:38:19" isStartedSynced="True" ended="10/30/2022 13:39:37" isEndedSynced="True" />
+    <Attempt id="6" started="10/30/2022 13:39:38" isStartedSynced="True" ended="10/30/2022 13:41:43" isEndedSynced="True" />
+    <Attempt id="7" started="10/30/2022 13:41:44" isStartedSynced="True" ended="10/30/2022 13:45:29" isEndedSynced="True" />
+    <Attempt id="8" started="10/30/2022 14:30:23" isStartedSynced="True" ended="10/30/2022 14:32:17" isEndedSynced="True" />
+    <Attempt id="9" started="10/30/2022 14:32:18" isStartedSynced="True" ended="10/30/2022 14:33:46" isEndedSynced="True" />
+    <Attempt id="10" started="10/30/2022 14:33:47" isStartedSynced="True" ended="10/30/2022 14:37:31" isEndedSynced="True" />
+    <Attempt id="11" started="10/30/2022 14:37:32" isStartedSynced="True" ended="10/30/2022 14:38:56" isEndedSynced="True" />
+    <Attempt id="12" started="10/30/2022 14:38:59" isStartedSynced="True" ended="10/30/2022 14:44:32" isEndedSynced="True" />
+    <Attempt id="13" started="10/30/2022 14:44:36" isStartedSynced="True" ended="10/30/2022 14:46:36" isEndedSynced="True" />
+    <Attempt id="14" started="10/30/2022 15:01:44" isStartedSynced="True" ended="10/30/2022 15:08:51" isEndedSynced="True" />
+    <Attempt id="15" started="10/30/2022 15:08:57" isStartedSynced="True" ended="10/30/2022 15:19:06" isEndedSynced="True" />
+    <Attempt id="16" started="10/30/2022 15:21:00" isStartedSynced="True" ended="10/30/2022 15:21:02" isEndedSynced="True" />
+    <Attempt id="17" started="10/30/2022 15:21:05" isStartedSynced="True" ended="10/30/2022 15:39:09" isEndedSynced="True">
+      <RealTime>00:18:03.2860000</RealTime>
+    </Attempt>
+    <Attempt id="18" started="10/30/2022 15:55:33" isStartedSynced="True" ended="10/30/2022 15:57:50" isEndedSynced="True" />
+    <Attempt id="19" started="10/30/2022 15:58:01" isStartedSynced="True" ended="10/30/2022 15:58:36" isEndedSynced="True" />
+    <Attempt id="20" started="10/30/2022 15:58:37" isStartedSynced="True" ended="10/30/2022 15:59:52" isEndedSynced="True" />
+    <Attempt id="21" started="10/30/2022 15:59:54" isStartedSynced="True" ended="10/30/2022 16:00:34" isEndedSynced="True" />
+    <Attempt id="22" started="10/30/2022 16:00:35" isStartedSynced="True" ended="10/30/2022 16:01:37" isEndedSynced="True" />
+    <Attempt id="23" started="10/30/2022 16:01:38" isStartedSynced="True" ended="10/30/2022 16:20:55" isEndedSynced="True">
+      <RealTime>00:19:16.7180000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Luigi's Circuit</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:13.3440000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:50.2710000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="17">
+          <RealTime>00:04:13.3440000</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:02:50.2710000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Moo Moo Ranch</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:38.8160000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:33.8970000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="17">
+          <RealTime>00:03:25.4720000</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:02:33.8970000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Beach</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:33.7430000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:54.9270000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="17">
+          <RealTime>00:05:54.9270000</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:06:09.9830000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Desert</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:03.2860000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:29.5430000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="17">
+          <RealTime>00:04:29.5430000</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:07:42.5670000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

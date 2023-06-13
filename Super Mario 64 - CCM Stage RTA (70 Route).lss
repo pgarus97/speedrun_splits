@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario 64</GameName>
+  <CategoryName>CCM Stage RTA (70 Route)</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>13</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/22/2023 14:08:07" isStartedSynced="True" ended="02/22/2023 14:08:36" isEndedSynced="True" />
+    <Attempt id="2" started="02/22/2023 14:08:39" isStartedSynced="True" ended="02/22/2023 14:12:24" isEndedSynced="True">
+      <RealTime>00:03:44.9850000</RealTime>
+    </Attempt>
+    <Attempt id="3" started="02/22/2023 14:14:44" isStartedSynced="True" ended="02/22/2023 14:15:06" isEndedSynced="True" />
+    <Attempt id="4" started="02/22/2023 14:15:09" isStartedSynced="True" ended="02/22/2023 14:17:24" isEndedSynced="True" />
+    <Attempt id="5" started="02/22/2023 14:17:32" isStartedSynced="True" ended="02/22/2023 14:21:08" isEndedSynced="True">
+      <RealTime>00:03:36.0090000</RealTime>
+    </Attempt>
+    <Attempt id="6" started="02/22/2023 14:22:16" isStartedSynced="True" ended="02/22/2023 14:25:28" isEndedSynced="True">
+      <RealTime>00:03:12.0089990</RealTime>
+    </Attempt>
+    <Attempt id="7" started="06/12/2023 12:37:45" isStartedSynced="True" ended="06/12/2023 12:40:12" isEndedSynced="True" />
+    <Attempt id="8" started="06/12/2023 12:41:48" isStartedSynced="True" ended="06/12/2023 12:43:03" isEndedSynced="True" />
+    <Attempt id="9" started="06/12/2023 12:43:27" isStartedSynced="True" ended="06/12/2023 12:46:40" isEndedSynced="True">
+      <RealTime>00:03:13.2086380</RealTime>
+    </Attempt>
+    <Attempt id="10" started="06/12/2023 12:51:06" isStartedSynced="True" ended="06/12/2023 12:52:00" isEndedSynced="True" />
+    <Attempt id="11" started="06/12/2023 12:53:31" isStartedSynced="True" ended="06/12/2023 12:56:53" isEndedSynced="True">
+      <RealTime>00:03:22.5525989</RealTime>
+    </Attempt>
+    <Attempt id="12" started="06/12/2023 12:57:56" isStartedSynced="True" ended="06/12/2023 13:01:07" isEndedSynced="True">
+      <RealTime>00:03:10.9529270</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>LilPeng</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Slide</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Wallkicks</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

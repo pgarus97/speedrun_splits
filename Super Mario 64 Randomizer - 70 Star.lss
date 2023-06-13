@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario 64 Randomizer</GameName>
+  <CategoryName>30 Star</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>8</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="12/08/2022 16:16:44" isStartedSynced="True" ended="12/08/2022 16:17:09" isEndedSynced="True" />
+    <Attempt id="2" started="12/08/2022 16:17:52" isStartedSynced="True" ended="12/08/2022 16:18:57" isEndedSynced="True" />
+    <Attempt id="3" started="12/08/2022 16:19:24" isStartedSynced="True" ended="12/08/2022 16:23:01" isEndedSynced="True" />
+    <Attempt id="4" started="12/08/2022 16:33:54" isStartedSynced="True" ended="12/08/2022 17:43:01" isEndedSynced="True" />
+    <Attempt id="5" started="12/08/2022 19:12:12" isStartedSynced="True" ended="12/08/2022 19:31:12" isEndedSynced="True">
+      <RealTime>00:18:59.6340000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:02.8250000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:02.8250000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:06:02.8250000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>20</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:12.8980000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:10.0730000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:06:10.0730000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>30</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:59.6340000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:46.7360000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:06:46.7360000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

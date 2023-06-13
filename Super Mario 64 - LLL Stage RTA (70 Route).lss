@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario 64</GameName>
+  <CategoryName>SSL Stage RTA (70 Route)</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>10</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/13/2023 12:45:05" isStartedSynced="True" ended="06/13/2023 12:45:48" isEndedSynced="True" />
+    <Attempt id="2" started="06/13/2023 12:46:19" isStartedSynced="True" ended="06/13/2023 12:46:43" isEndedSynced="True" />
+    <Attempt id="3" started="06/13/2023 12:47:23" isStartedSynced="True" ended="06/13/2023 12:47:38" isEndedSynced="True" />
+    <Attempt id="4" started="06/13/2023 12:47:58" isStartedSynced="True" ended="06/13/2023 12:48:09" isEndedSynced="True" />
+    <Attempt id="5" started="06/13/2023 12:48:14" isStartedSynced="True" ended="06/13/2023 12:48:29" isEndedSynced="True" />
+    <Attempt id="6" started="06/13/2023 12:53:38" isStartedSynced="True" ended="06/13/2023 12:54:32" isEndedSynced="True" />
+    <Attempt id="7" started="06/13/2023 12:55:35" isStartedSynced="True" ended="06/13/2023 12:56:21" isEndedSynced="True" />
+    <Attempt id="8" started="06/13/2023 12:56:26" isStartedSynced="True" ended="06/13/2023 12:57:23" isEndedSynced="True" />
+    <Attempt id="9" started="06/13/2023 12:57:26" isStartedSynced="True" ended="06/13/2023 12:57:41" isEndedSynced="True" />
+    <Attempt id="10" started="06/13/2023 12:57:48" isStartedSynced="True" ended="06/13/2023 13:00:04" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Talon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pyra</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
