@@ -2,7 +2,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Super Mario 64</GameName>
-  <CategoryName>BOB Stage RTA (70 Route)</CategoryName>
+  <CategoryName>TTC Stage RTA (70 Star)</CategoryName>
   <LayoutPath>
   </LayoutPath>
   <Metadata>
@@ -16,112 +16,112 @@
   <Offset>00:00:00</Offset>
   <AttemptCount>3</AttemptCount>
   <AttemptHistory>
-    <Attempt id="1" started="06/14/2023 12:40:30" isStartedSynced="True" ended="06/14/2023 12:42:34" isEndedSynced="True" />
-    <Attempt id="2" started="06/14/2023 12:42:46" isStartedSynced="True" ended="06/14/2023 12:48:24" isEndedSynced="True">
-      <RealTime>00:05:37.9371958</RealTime>
+    <Attempt id="1" started="06/14/2023 14:41:16" isStartedSynced="True" ended="06/14/2023 14:46:43" isEndedSynced="True">
+      <RealTime>00:05:26.7613128</RealTime>
     </Attempt>
-    <Attempt id="3" started="06/14/2023 12:53:55" isStartedSynced="True" ended="06/14/2023 12:59:36" isEndedSynced="True">
-      <RealTime>00:05:41.6574770</RealTime>
+    <Attempt id="2" started="06/14/2023 14:48:22" isStartedSynced="True" ended="06/14/2023 14:48:32" isEndedSynced="True" />
+    <Attempt id="3" started="06/14/2023 14:48:58" isStartedSynced="True" ended="06/14/2023 14:52:52" isEndedSynced="True">
+      <RealTime>00:03:54.2488586</RealTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>BombClip</Name>
+      <Name>Bar</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:00:50.2015746</RealTime>
+          <RealTime>00:00:47.5770006</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:24.8645173</RealTime>
+        <RealTime>00:00:47.5770006</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="2">
-          <RealTime>00:00:50.2015746</RealTime>
+        <Time id="1">
+          <RealTime>00:00:49.9126556</RealTime>
         </Time>
         <Time id="3">
-          <RealTime>00:00:24.8645173</RealTime>
+          <RealTime>00:00:47.5770006</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Secrets</Name>
+      <Name>Pendulum</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:01:45.7609172</RealTime>
+          <RealTime>00:01:36.3607959</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:55.5038841</RealTime>
+        <RealTime>00:00:48.7837953</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="2">
-          <RealTime>00:00:55.5593426</RealTime>
+        <Time id="1">
+          <RealTime>00:01:03.9516208</RealTime>
         </Time>
         <Time id="3">
-          <RealTime>00:00:55.5038841</RealTime>
+          <RealTime>00:00:48.7837953</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>King</Name>
+      <Name>Cage</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:03:04.6726056</RealTime>
+          <RealTime>00:02:23.6326138</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:18.8723853</RealTime>
+        <RealTime>00:00:47.2718179</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="2">
-          <RealTime>00:01:18.9116884</RealTime>
+        <Time id="1">
+          <RealTime>00:01:37.4004276</RealTime>
         </Time>
         <Time id="3">
-          <RealTime>00:01:18.8723853</RealTime>
+          <RealTime>00:00:47.2718179</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Koopa</Name>
+      <Name>Hand</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:05:00.3931504</RealTime>
+          <RealTime>00:03:03.6087383</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:55.7205448</RealTime>
+        <RealTime>00:00:39.6642709</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="2">
-          <RealTime>00:01:55.7205448</RealTime>
+        <Time id="1">
+          <RealTime>00:00:39.6642709</RealTime>
         </Time>
         <Time id="3">
-          <RealTime>00:02:22.7123727</RealTime>
+          <RealTime>00:00:39.9761245</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Island</Name>
+      <Name>Reds</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:05:37.9371958</RealTime>
+          <RealTime>00:03:54.2488586</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:37.5440454</RealTime>
+        <RealTime>00:00:50.6401203</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="2">
-          <RealTime>00:00:37.5440454</RealTime>
+        <Time id="1">
+          <RealTime>00:01:15.8323379</RealTime>
         </Time>
         <Time id="3">
-          <RealTime>00:00:39.7043176</RealTime>
+          <RealTime>00:00:50.6401203</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>

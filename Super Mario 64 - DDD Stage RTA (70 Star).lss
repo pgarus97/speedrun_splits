@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario 64</GameName>
+  <CategoryName>DDD Stage RTA (70 Star)</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>3</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/14/2023 13:11:24" isStartedSynced="True" ended="06/14/2023 13:11:37" isEndedSynced="True" />
+    <Attempt id="2" started="06/14/2023 13:11:38" isStartedSynced="True" ended="06/14/2023 13:14:29" isEndedSynced="True">
+      <RealTime>00:02:51.1204956</RealTime>
+    </Attempt>
+    <Attempt id="3" started="06/14/2023 13:20:56" isStartedSynced="True" ended="06/14/2023 13:23:13" isEndedSynced="True">
+      <RealTime>00:02:16.8725378</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Cap</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:10.8962678</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:10.8962678</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:22.9523141</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:10.8962678</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sub</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:16.8725378</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:05.9762700</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:28.1681815</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:05.9762700</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
