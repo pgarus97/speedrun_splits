@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario 64</GameName>
+  <CategoryName>TTM Stage RTA (70 Star)</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>5</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/16/2023 13:49:41" isStartedSynced="True" ended="06/16/2023 13:50:02" isEndedSynced="True" />
+    <Attempt id="2" started="06/16/2023 13:50:03" isStartedSynced="True" ended="06/16/2023 13:50:19" isEndedSynced="True" />
+    <Attempt id="3" started="06/16/2023 13:50:20" isStartedSynced="True" ended="06/16/2023 13:58:25" isEndedSynced="True">
+      <RealTime>00:08:04.6189704</RealTime>
+    </Attempt>
+    <Attempt id="4" started="06/16/2023 14:11:10" isStartedSynced="True" ended="06/16/2023 14:15:45" isEndedSynced="True">
+      <RealTime>00:04:35.3775482</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Reds</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:52.6959410</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:52.6959410</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:58.6805574</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:52.6959410</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Top</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:05.6083340</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:12.9123930</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:42.4647500</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:12.9123930</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Waterfall</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:05.2246163</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:59.6162823</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:15.7043038</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:59.6162823</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Box</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:04.9776976</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:59.7530813</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:03:37.0252655</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:59.7530813</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Breeze</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:35.3775482</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:30.3998506</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:30.7440937</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:30.3998506</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

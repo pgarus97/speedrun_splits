@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario 64</GameName>
+  <CategoryName>WDW Stage RTA (70 Star)</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>5</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/16/2023 14:50:49" isStartedSynced="True" ended="06/16/2023 14:56:12" isEndedSynced="True">
+      <RealTime>00:05:23.7141566</RealTime>
+    </Attempt>
+    <Attempt id="2" started="06/16/2023 15:10:17" isStartedSynced="True" ended="06/16/2023 15:10:45" isEndedSynced="True" />
+    <Attempt id="3" started="06/16/2023 15:11:00" isStartedSynced="True" ended="06/16/2023 15:11:13" isEndedSynced="True" />
+    <Attempt id="4" started="06/16/2023 15:11:14" isStartedSynced="True" ended="06/16/2023 15:16:30" isEndedSynced="True">
+      <RealTime>00:05:15.7539937</RealTime>
+    </Attempt>
+    <Attempt id="5" started="06/16/2023 15:37:31" isStartedSynced="True" ended="06/16/2023 15:37:33" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Secrets</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:16.5606654</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:13.2325541</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:13.2325541</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:16.5606654</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Top</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:00.9849614</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:44.4242960</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:52.8000528</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:44.4242960</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Elevator</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:15.5373148</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:14.5523534</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:20.0484837</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:14.5523534</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Downtown</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:43.0988582</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:26.5286696</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:26.5286696</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:27.5615434</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Warp</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:15.7539937</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:31.1043964</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:31.1043964</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:32.6551355</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

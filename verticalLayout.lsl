@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>696</X>
-  <Y>372</Y>
+  <X>-450</X>
+  <Y>347</Y>
   <VerticalWidth>320</VerticalWidth>
-  <VerticalHeight>412</VerticalHeight>
+  <VerticalHeight>413</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -179,9 +179,30 @@
       <Path>LiveSplit.TheRun.dll</Path>
       <Settings>
         <Version>1.0.0</Version>
-        <Path>9face884-fc30-414e-b372-e950c97085e6</Path>
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.TheoryComparisonGenerator.dll</Path>
+      <Settings>
+        <AutoTheoryPB>True</AutoTheoryPB>
+        <AutoTheoryDisplayName>
+        </AutoTheoryDisplayName>
+        <Comparisons>
+          <Settings>
+            <SplitsName>Super Mario 64 - 70 Star</SplitsName>
+            <SecondaryName>
+            </SecondaryName>
+            <Target>01:31:15.000</Target>
+          </Settings>
+          <Settings>
+            <SplitsName>Super Mario 64 - 16 Star Blindfolded NO LBLJ</SplitsName>
+            <SecondaryName>
+            </SecondaryName>
+            <Target>00:23:17.000</Target>
+          </Settings>
+        </Comparisons>
       </Settings>
     </Component>
   </Components>
