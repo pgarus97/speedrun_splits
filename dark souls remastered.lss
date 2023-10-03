@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>dark souls remastered</GameName>
+  <CategoryName>
+  </CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>3</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="08/30/2023 16:22:35" isStartedSynced="False" ended="08/30/2023 16:22:38" isEndedSynced="False">
+      <RealTime>00:00:01.6700017</RealTime>
+      <PauseTime>00:00:01.2876785</PauseTime>
+    </Attempt>
+    <Attempt id="2" started="08/30/2023 16:22:39" isStartedSynced="False" ended="08/30/2023 16:23:11" isEndedSynced="False">
+      <RealTime>00:00:31.6884033</RealTime>
+      <GameTime>00:00:13.8039528</GameTime>
+    </Attempt>
+    <Attempt id="3" started="08/30/2023 16:23:18" isStartedSynced="True" ended="08/30/2023 16:26:23" isEndedSynced="True">
+      <RealTime>00:02:51.3010729</RealTime>
+      <GameTime>00:07:27.7120000</GameTime>
+      <PauseTime>00:00:13.5227071</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>test</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:30.1416852</RealTime>
+          <GameTime>00:07:07.4080000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:01.6700017</RealTime>
+        <GameTime>00:00:13.8039528</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:01.6700017</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:31.6884033</RealTime>
+          <GameTime>00:00:13.8039528</GameTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:30.1416852</RealTime>
+          <GameTime>00:07:07.4080000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>test</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:46.3810874</RealTime>
+          <GameTime>00:07:22.9920000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:16.2394022</RealTime>
+        <GameTime>00:00:15.5840000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:16.2394022</RealTime>
+          <GameTime>00:00:15.5840000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>test</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:51.3010729</RealTime>
+          <GameTime>00:07:27.7120000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:04.9199855</RealTime>
+        <GameTime>00:00:04.7200000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:04.9199855</RealTime>
+          <GameTime>00:00:04.7200000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <MainViewModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <_badgeVisibilityInverse>Visible</_badgeVisibilityInverse>
+  <Version>1.4.5</Version>
+  <SelectedGame>DarkSouls1</SelectedGame>
+  <DarkSouls1ViewModel>
+    <StartAutomatically>true</StartAutomatically>
+    <SplitsViewModel>
+      <Splits />
+    </SplitsViewModel>
+    <ResetInventoryIndices>true</ResetInventoryIndices>
+  </DarkSouls1ViewModel>
+  <DarkSouls2ViewModel>
+    <StartAutomatically>true</StartAutomatically>
+    <Splits />
+  </DarkSouls2ViewModel>
+  <DarkSouls3ViewModel>
+    <StartAutomatically>true</StartAutomatically>
+    <SplitsViewModel>
+      <Splits />
+    </SplitsViewModel>
+    <LockIgtToZero>false</LockIgtToZero>
+  </DarkSouls3ViewModel>
+  <SekiroViewModel>
+    <StartAutomatically>true</StartAutomatically>
+    <SplitsViewModel>
+      <Splits />
+    </SplitsViewModel>
+    <OverwriteIgtOnStart>false</OverwriteIgtOnStart>
+  </SekiroViewModel>
+  <EldenRingViewModel>
+    <StartAutomatically>true</StartAutomatically>
+    <LockIgtToZero>false</LockIgtToZero>
+    <EnabledRemoveSplit>false</EnabledRemoveSplit>
+    <Splits />
+  </EldenRingViewModel>
+  <FlagTrackerViewModel>
+    <EventFlagCategories />
+    <WindowWidth>800</WindowWidth>
+    <WindowHeight>600</WindowHeight>
+    <InputColumnWidth>400</InputColumnWidth>
+    <CategoryPercentagesRowHeight>300</CategoryPercentagesRowHeight>
+    <CategoryPercentageFontSize>30</CategoryPercentageFontSize>
+    <TotalPercentageFontSize>60</TotalPercentageFontSize>
+    <BackgroundColor>
+      <A>255</A>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+      <ScA>1</ScA>
+      <ScR>1</ScR>
+      <ScG>1</ScG>
+      <ScB>1</ScB>
+    </BackgroundColor>
+    <TextColor>
+      <A>255</A>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
+    </TextColor>
+    <FlagsPerFrame>10</FlagsPerFrame>
+  </FlagTrackerViewModel>
+  <IgnoreProcessNotRunningErrors>true</IgnoreProcessNotRunningErrors>
+  <FavoriteSplits>
+    <Splits />
+  </FavoriteSplits>
+</MainViewModel>
+  </AutoSplitterSettings>
+</Run>
