@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Dark Souls Remastered</GameName>
+  <CategoryName>Any% Blindfolded</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>36</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="10/12/2023 14:19:48" isStartedSynced="False" ended="10/12/2023 14:19:53" isEndedSynced="False" />
+    <Attempt id="2" started="10/12/2023 14:20:20" isStartedSynced="True" ended="10/12/2023 14:20:31" isEndedSynced="True" />
+    <Attempt id="3" started="10/12/2023 14:21:24" isStartedSynced="True" ended="10/12/2023 14:21:39" isEndedSynced="True" />
+    <Attempt id="4" started="10/12/2023 14:24:20" isStartedSynced="True" ended="10/12/2023 14:24:22" isEndedSynced="True" />
+    <Attempt id="5" started="10/12/2023 14:24:23" isStartedSynced="True" ended="10/12/2023 14:24:24" isEndedSynced="True" />
+    <Attempt id="6" started="10/12/2023 14:24:25" isStartedSynced="True" ended="10/12/2023 14:24:27" isEndedSynced="True" />
+    <Attempt id="7" started="10/12/2023 14:24:27" isStartedSynced="True" ended="10/12/2023 14:24:28" isEndedSynced="True" />
+    <Attempt id="8" started="10/13/2023 09:55:09" isStartedSynced="True" ended="10/13/2023 10:00:12" isEndedSynced="True" />
+    <Attempt id="9" started="10/13/2023 10:01:17" isStartedSynced="True" ended="10/13/2023 10:01:33" isEndedSynced="True" />
+    <Attempt id="10" started="10/13/2023 10:12:08" isStartedSynced="True" ended="10/13/2023 13:50:45" isEndedSynced="True" />
+    <Attempt id="11" started="10/18/2023 11:30:22" isStartedSynced="True" ended="10/18/2023 11:30:27" isEndedSynced="True" />
+    <Attempt id="12" started="10/18/2023 11:30:52" isStartedSynced="True" ended="10/18/2023 11:30:56" isEndedSynced="True" />
+    <Attempt id="13" started="10/18/2023 11:35:40" isStartedSynced="True" ended="10/18/2023 11:36:27" isEndedSynced="True" />
+    <Attempt id="14" started="10/18/2023 11:37:01" isStartedSynced="True" ended="10/18/2023 11:39:01" isEndedSynced="True" />
+    <Attempt id="15" started="10/18/2023 11:39:36" isStartedSynced="True" ended="10/18/2023 11:43:50" isEndedSynced="True" />
+    <Attempt id="16" started="10/18/2023 11:46:11" isStartedSynced="True" ended="10/18/2023 14:59:08" isEndedSynced="True" />
+    <Attempt id="17" started="10/19/2023 11:56:50" isStartedSynced="True" ended="10/19/2023 11:58:23" isEndedSynced="True" />
+    <Attempt id="18" started="10/19/2023 12:08:18" isStartedSynced="True" ended="10/19/2023 12:08:36" isEndedSynced="True" />
+    <Attempt id="19" started="10/19/2023 12:09:00" isStartedSynced="True" ended="10/19/2023 12:12:54" isEndedSynced="True" />
+    <Attempt id="20" started="10/19/2023 12:13:33" isStartedSynced="True" ended="10/19/2023 12:13:53" isEndedSynced="True" />
+    <Attempt id="21" started="10/19/2023 12:14:23" isStartedSynced="True" ended="10/19/2023 13:36:28" isEndedSynced="True" />
+    <Attempt id="22" started="10/20/2023 12:24:50" isStartedSynced="True" ended="10/20/2023 12:25:11" isEndedSynced="True" />
+    <Attempt id="23" started="10/20/2023 12:29:35" isStartedSynced="True" ended="10/20/2023 12:55:21" isEndedSynced="True" />
+    <Attempt id="24" started="10/20/2023 13:00:35" isStartedSynced="True" ended="10/20/2023 13:02:09" isEndedSynced="True" />
+    <Attempt id="25" started="10/20/2023 13:02:56" isStartedSynced="True" ended="10/20/2023 13:03:14" isEndedSynced="True" />
+    <Attempt id="26" started="10/20/2023 13:03:48" isStartedSynced="True" ended="10/20/2023 17:59:55" isEndedSynced="True" />
+    <Attempt id="27" started="10/21/2023 14:06:20" isStartedSynced="False" ended="10/21/2023 14:14:12" isEndedSynced="True" />
+    <Attempt id="28" started="10/21/2023 15:00:49" isStartedSynced="True" ended="10/21/2023 15:01:01" isEndedSynced="True" />
+    <Attempt id="29" started="10/21/2023 15:05:09" isStartedSynced="True" ended="10/21/2023 20:23:55" isEndedSynced="True" />
+    <Attempt id="30" started="11/03/2023 12:24:06" isStartedSynced="True" ended="11/03/2023 12:24:13" isEndedSynced="True" />
+    <Attempt id="31" started="11/03/2023 12:27:52" isStartedSynced="True" ended="11/03/2023 16:37:11" isEndedSynced="True">
+      <RealTime>04:09:18.4682330</RealTime>
+      <GameTime>03:34:25.5840000</GameTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Asylum</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:23.5836789</RealTime>
+          <GameTime>00:04:04.9280000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:23.5836789</RealTime>
+        <GameTime>00:04:04.9280000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="21">
+          <RealTime>00:04:26.6247903</RealTime>
+          <GameTime>00:04:07.5200000</GameTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:04:51.1007104</RealTime>
+          <GameTime>00:04:29.3920000</GameTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:04:54.0104923</RealTime>
+          <GameTime>00:04:32.1440000</GameTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:04:42.5551232</RealTime>
+          <GameTime>00:04:21.2160000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:04:43.0200000</RealTime>
+        </Time>
+        <Time id="-1">
+          <GameTime>00:04:21.5200000</GameTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:04:23.5836789</RealTime>
+          <GameTime>00:04:04.9280000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Basin Bonfire</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:53.0905693</RealTime>
+          <GameTime>00:14:57.9200000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:29.5068904</RealTime>
+        <GameTime>00:08:57.9840000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="31">
+          <RealTime>00:11:29.5068904</RealTime>
+          <GameTime>00:10:52.9920000</GameTime>
+        </Time>
+        <Time id="-1">
+          <GameTime>00:15:25.8200000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:16:18.2100000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Smith Bonfire</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:26:59.7903393</RealTime>
+          <GameTime>00:24:43.1360000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:42.9728433</RealTime>
+        <GameTime>00:08:19.1520000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="21">
+          <RealTime>00:11:02.1629225</RealTime>
+          <GameTime>00:09:52.5120000</GameTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:09:42.9728433</RealTime>
+          <GameTime>00:08:35.4240000</GameTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:09:52.2834248</RealTime>
+          <GameTime>00:08:19.1520000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:09:51</RealTime>
+        </Time>
+        <Time id="-1">
+          <GameTime>00:08:19.6200000</GameTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:11:06.6997700</RealTime>
+          <GameTime>00:09:45.2160000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Gargoyles</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:38:43.3454811</RealTime>
+          <GameTime>00:35:33.9200000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:33</RealTime>
+        <GameTime>00:08:41.9000000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="21">
+          <RealTime>00:18:44.2617571</RealTime>
+          <GameTime>00:16:30.4000000</GameTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:21:46.7340329</RealTime>
+          <GameTime>00:19:02.5600000</GameTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:09:33.1001566</RealTime>
+          <GameTime>00:08:42.3360000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:09:33</RealTime>
+        </Time>
+        <Time id="-1">
+          <GameTime>00:08:41.9000000</GameTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:11:43.5551418</RealTime>
+          <GameTime>00:10:50.7840000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Quelaag</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:05:52.4103262</RealTime>
+          <GameTime>01:00:50.1280000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:20:27.4318087</RealTime>
+        <GameTime>00:18:29.6000000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="26">
+          <RealTime>00:20:27.4318087</RealTime>
+          <GameTime>00:18:29.6000000</GameTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:39:07.5609384</RealTime>
+          <GameTime>00:33:51.6160000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:39:13</RealTime>
+        </Time>
+        <Time id="-1">
+          <GameTime>00:33:56.3700000</GameTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:27:09.0648451</RealTime>
+          <GameTime>00:25:16.2080000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Logan</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:42:50.9423606</RealTime>
+          <GameTime>01:34:30.6880000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:19:12.2068171</RealTime>
+        <GameTime>00:17:44.5280000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="26">
+          <RealTime>00:19:12.2068171</RealTime>
+          <GameTime>00:17:44.5280000</GameTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:54:40.8716480</RealTime>
+          <GameTime>00:49:08.9600000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:37:06</RealTime>
+        </Time>
+        <Time id="-1">
+          <GameTime>00:33:48</GameTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:36:58.5320344</RealTime>
+          <GameTime>00:33:40.5600000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sens Fortress Bonfire</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:55:00.0665712</RealTime>
+          <GameTime>01:45:24.0480000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:54.7797650</RealTime>
+        <GameTime>00:10:53.3600000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <GameTime>00:15:20</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:17:34</RealTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:12:09.1242106</RealTime>
+          <GameTime>00:10:53.3600000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Iron Golem</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:07:35.3336013</RealTime>
+          <GameTime>01:57:13.2000000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:49</RealTime>
+        <GameTime>00:08:23</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <GameTime>00:08:23</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:08:49</RealTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:12:35.2670301</RealTime>
+          <GameTime>00:11:49.1520000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Anor Rafters</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:19:17.1374190</RealTime>
+          <GameTime>02:08:09.7440000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:41.8038177</RealTime>
+        <GameTime>00:10:56.5440000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="29">
+          <RealTime>01:19:37.4906408</RealTime>
+          <GameTime>01:06:55.3280000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:20:40</RealTime>
+        </Time>
+        <Time id="-1">
+          <GameTime>00:19:15</GameTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:11:41.8038177</RealTime>
+          <GameTime>00:10:56.5440000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Anor Archers</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:48:25.2193319</RealTime>
+          <GameTime>02:28:14.6720000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:29:08.0819129</RealTime>
+        <GameTime>00:20:04.9280000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>01:01:03</RealTime>
+        </Time>
+        <Time id="-1">
+          <GameTime>00:49:40.7300000</GameTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:29:08.0819129</RealTime>
+          <GameTime>00:20:04.9280000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ornstein &amp; Smough</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:16:29.7076332</RealTime>
+          <GameTime>02:54:19.8560000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:28:04.4883013</RealTime>
+        <GameTime>00:26:05.1840000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:28:12</RealTime>
+        </Time>
+        <Time id="-1">
+          <GameTime>00:26:37.5700000</GameTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:28:04.4883013</RealTime>
+          <GameTime>00:26:05.1840000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Gwyn</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:09:18.4682330</RealTime>
+          <GameTime>03:34:25.5840000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:44:31</RealTime>
+        <GameTime>00:34:01.2500000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:44:31</RealTime>
+        </Time>
+        <Time id="-1">
+          <GameTime>00:34:01.2500000</GameTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:52:48.7605998</RealTime>
+          <GameTime>00:40:05.7280000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <MainViewModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <_badgeVisibilityInverse>Visible</_badgeVisibilityInverse>
+  <Version>1.5.3</Version>
+  <SelectedGame>DarkSouls1</SelectedGame>
+  <DarkSouls1ViewModel>
+    <StartAutomatically>true</StartAutomatically>
+    <SplitsViewModel>
+      <Splits />
+    </SplitsViewModel>
+    <ResetInventoryIndices>true</ResetInventoryIndices>
+  </DarkSouls1ViewModel>
+  <DarkSouls2ViewModel>
+    <StartAutomatically>true</StartAutomatically>
+    <Splits />
+  </DarkSouls2ViewModel>
+  <DarkSouls3ViewModel>
+    <StartAutomatically>true</StartAutomatically>
+    <SplitsViewModel>
+      <Splits />
+    </SplitsViewModel>
+    <LockIgtToZero>false</LockIgtToZero>
+  </DarkSouls3ViewModel>
+  <SekiroViewModel>
+    <StartAutomatically>true</StartAutomatically>
+    <SplitsViewModel>
+      <Splits />
+    </SplitsViewModel>
+    <OverwriteIgtOnStart>false</OverwriteIgtOnStart>
+  </SekiroViewModel>
+  <EldenRingViewModel>
+    <StartAutomatically>true</StartAutomatically>
+    <LockIgtToZero>false</LockIgtToZero>
+    <EnabledRemoveSplit>false</EnabledRemoveSplit>
+    <Splits />
+  </EldenRingViewModel>
+  <ArmoredCore6ViewModel>
+    <StartAutomatically>true</StartAutomatically>
+    <SplitsViewModel>
+      <Splits />
+    </SplitsViewModel>
+  </ArmoredCore6ViewModel>
+  <FlagTrackerViewModel>
+    <EventFlagCategories />
+    <WindowWidth>800</WindowWidth>
+    <WindowHeight>600</WindowHeight>
+    <InputColumnWidth>400</InputColumnWidth>
+    <CategoryPercentagesRowHeight>300</CategoryPercentagesRowHeight>
+    <CategoryPercentageFontSize>30</CategoryPercentageFontSize>
+    <TotalPercentageFontSize>60</TotalPercentageFontSize>
+    <BackgroundColor>
+      <A>255</A>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+      <ScA>1</ScA>
+      <ScR>1</ScR>
+      <ScG>1</ScG>
+      <ScB>1</ScB>
+    </BackgroundColor>
+    <TextColor>
+      <A>255</A>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
+    </TextColor>
+    <FlagsPerFrame>10</FlagsPerFrame>
+  </FlagTrackerViewModel>
+  <IgnoreProcessNotRunningErrors>true</IgnoreProcessNotRunningErrors>
+</MainViewModel>
+  </AutoSplitterSettings>
+</Run>

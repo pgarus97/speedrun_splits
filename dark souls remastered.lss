@@ -15,7 +15,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>3</AttemptCount>
+  <AttemptCount>6</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="08/30/2023 16:22:35" isStartedSynced="False" ended="08/30/2023 16:22:38" isEndedSynced="False">
       <RealTime>00:00:01.6700017</RealTime>
@@ -30,6 +30,9 @@
       <GameTime>00:07:27.7120000</GameTime>
       <PauseTime>00:00:13.5227071</PauseTime>
     </Attempt>
+    <Attempt id="4" started="10/03/2023 09:57:06" isStartedSynced="True" ended="10/03/2023 10:00:19" isEndedSynced="True" />
+    <Attempt id="5" started="10/03/2023 10:10:18" isStartedSynced="False" ended="10/03/2023 10:10:27" isEndedSynced="False" />
+    <Attempt id="6" started="10/03/2023 10:11:33" isStartedSynced="False" ended="10/03/2023 10:12:30" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -103,7 +106,7 @@
   <AutoSplitterSettings>
     <MainViewModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <_badgeVisibilityInverse>Visible</_badgeVisibilityInverse>
-  <Version>1.4.5</Version>
+  <Version>1.5.3</Version>
   <SelectedGame>DarkSouls1</SelectedGame>
   <DarkSouls1ViewModel>
     <StartAutomatically>true</StartAutomatically>
@@ -136,6 +139,12 @@
     <EnabledRemoveSplit>false</EnabledRemoveSplit>
     <Splits />
   </EldenRingViewModel>
+  <ArmoredCore6ViewModel>
+    <StartAutomatically>true</StartAutomatically>
+    <SplitsViewModel>
+      <Splits />
+    </SplitsViewModel>
+  </ArmoredCore6ViewModel>
   <FlagTrackerViewModel>
     <EventFlagCategories />
     <WindowWidth>800</WindowWidth>
@@ -167,9 +176,6 @@
     <FlagsPerFrame>10</FlagsPerFrame>
   </FlagTrackerViewModel>
   <IgnoreProcessNotRunningErrors>true</IgnoreProcessNotRunningErrors>
-  <FavoriteSplits>
-    <Splits />
-  </FavoriteSplits>
 </MainViewModel>
   </AutoSplitterSettings>
 </Run>
