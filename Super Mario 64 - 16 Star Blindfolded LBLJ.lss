@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>117</AttemptCount>
+  <AttemptCount>123</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="02/08/2024 14:07:43" isStartedSynced="True" ended="02/08/2024 14:09:49" isEndedSynced="True" />
     <Attempt id="2" started="02/08/2024 14:09:50" isStartedSynced="True" ended="02/08/2024 14:11:13" isEndedSynced="True" />
@@ -138,6 +138,12 @@
     <Attempt id="108" started="03/13/2024 14:45:52" isStartedSynced="True" ended="03/13/2024 14:53:55" isEndedSynced="True" />
     <Attempt id="109" started="03/13/2024 14:53:56" isStartedSynced="True" ended="03/13/2024 14:54:12" isEndedSynced="True" />
     <Attempt id="110" started="03/13/2024 14:54:46" isStartedSynced="True" ended="03/13/2024 17:14:20" isEndedSynced="True" />
+    <Attempt id="111" started="03/25/2024 14:17:08" isStartedSynced="True" ended="03/25/2024 14:43:26" isEndedSynced="True" />
+    <Attempt id="112" started="03/25/2024 15:01:48" isStartedSynced="True" ended="03/25/2024 15:04:02" isEndedSynced="True" />
+    <Attempt id="113" started="03/25/2024 15:04:03" isStartedSynced="True" ended="03/25/2024 15:05:56" isEndedSynced="True" />
+    <Attempt id="114" started="03/25/2024 15:05:57" isStartedSynced="True" ended="03/25/2024 15:09:40" isEndedSynced="True" />
+    <Attempt id="115" started="03/25/2024 15:09:44" isStartedSynced="True" ended="03/25/2024 15:13:49" isEndedSynced="True" />
+    <Attempt id="116" started="03/25/2024 15:13:50" isStartedSynced="True" ended="03/25/2024 15:26:42" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -185,6 +191,12 @@
         </Time>
         <Time id="108">
           <RealTime>00:03:49.8658458</RealTime>
+        </Time>
+        <Time id="111">
+          <RealTime>00:04:21.9661119</RealTime>
+        </Time>
+        <Time id="116">
+          <RealTime>00:04:07.2824145</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -234,6 +246,12 @@
         <Time id="108">
           <RealTime>00:01:28.2956844</RealTime>
         </Time>
+        <Time id="111">
+          <RealTime>00:01:12.9520020</RealTime>
+        </Time>
+        <Time id="116">
+          <RealTime>00:01:13.2967130</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -246,7 +264,7 @@
         <SplitTime name="Logless Route" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:36.3042869</RealTime>
+        <RealTime>00:00:35.6242093</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="8">
@@ -281,6 +299,12 @@
         </Time>
         <Time id="108">
           <RealTime>00:01:16.9684263</RealTime>
+        </Time>
+        <Time id="111">
+          <RealTime>00:00:53.4168915</RealTime>
+        </Time>
+        <Time id="116">
+          <RealTime>00:00:35.6242093</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -327,6 +351,12 @@
         <Time id="92">
           <RealTime>00:00:38.9045252</RealTime>
         </Time>
+        <Time id="111">
+          <RealTime>00:00:40.6319890</RealTime>
+        </Time>
+        <Time id="116">
+          <RealTime>00:00:32.8165657</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -365,6 +395,12 @@
         </Time>
         <Time id="92">
           <RealTime>00:00:37.4961622</RealTime>
+        </Time>
+        <Time id="111">
+          <RealTime>00:00:36.1528294</RealTime>
+        </Time>
+        <Time id="116">
+          <RealTime>00:00:44.9923417</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -411,6 +447,12 @@
         <Time id="92">
           <RealTime>00:00:30.7530637</RealTime>
         </Time>
+        <Time id="111">
+          <RealTime>00:00:31.0639597</RealTime>
+        </Time>
+        <Time id="116">
+          <RealTime>00:00:30.7921245</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -420,8 +462,17 @@
         <SplitTime name="Personal Best" />
         <SplitTime name="Logless Route" />
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:59.1922633</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="111">
+          <RealTime>00:00:59.1922633</RealTime>
+        </Time>
+        <Time id="116">
+          <RealTime>00:01:47.6169475</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>LLL Reds</Name>
@@ -430,8 +481,17 @@
         <SplitTime name="Personal Best" />
         <SplitTime name="Logless Route" />
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:35.2003300</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="111">
+          <RealTime>00:00:45.5764176</RealTime>
+        </Time>
+        <Time id="116">
+          <RealTime>00:00:35.2003300</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>LLL Logless</Name>
@@ -440,17 +500,13 @@
         <SplitTime name="Personal Best" />
         <SplitTime name="Logless Route" />
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:01:28.7129901</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
-        <Time id="8" />
-        <Time id="15" />
-        <Time id="21" />
-        <Time id="41" />
-        <Time id="60" />
-        <Time id="73" />
-        <Time id="80" />
-        <Time id="88" />
-        <Time id="92" />
+        <Time id="111">
+          <RealTime>00:01:28.7129901</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -463,37 +519,9 @@
         <SplitTime name="Logless Route" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:36.4802551</RealTime>
+        <RealTime>00:03:10.7372792</RealTime>
       </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="8">
-          <RealTime>00:01:10.2646409</RealTime>
-        </Time>
-        <Time id="15">
-          <RealTime>00:00:36.5928477</RealTime>
-        </Time>
-        <Time id="21">
-          <RealTime>00:00:39.5842347</RealTime>
-        </Time>
-        <Time id="41">
-          <RealTime>00:01:42.3287564</RealTime>
-        </Time>
-        <Time id="60">
-          <RealTime>00:00:36.8638484</RealTime>
-        </Time>
-        <Time id="73">
-          <RealTime>00:00:36.4802551</RealTime>
-        </Time>
-        <Time id="80">
-          <RealTime>00:00:36.7919429</RealTime>
-        </Time>
-        <Time id="88">
-          <RealTime>00:00:36.8025675</RealTime>
-        </Time>
-        <Time id="92">
-          <RealTime>00:00:36.7839776</RealTime>
-        </Time>
-      </SegmentHistory>
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>LLL Elevator</Name>
@@ -534,6 +562,9 @@
         </Time>
         <Time id="92">
           <RealTime>00:01:01.7053575</RealTime>
+        </Time>
+        <Time id="111">
+          <RealTime>00:00:36.7842651</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -577,6 +608,9 @@
         <Time id="92">
           <RealTime>00:00:35.0076561</RealTime>
         </Time>
+        <Time id="111">
+          <RealTime>00:00:36.8082704</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -618,6 +652,9 @@
         </Time>
         <Time id="92">
           <RealTime>00:00:33.6719310</RealTime>
+        </Time>
+        <Time id="111">
+          <RealTime>00:00:36.2244363</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -661,6 +698,9 @@
         <Time id="92">
           <RealTime>00:00:50.3288746</RealTime>
         </Time>
+        <Time id="111">
+          <RealTime>00:00:51.1844531</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -700,6 +740,9 @@
         <Time id="92">
           <RealTime>00:01:22.5282281</RealTime>
         </Time>
+        <Time id="111">
+          <RealTime>00:01:37.5129265</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -709,8 +752,14 @@
         <SplitTime name="Personal Best" />
         <SplitTime name="Logless Route" />
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:04:41.8026128</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="111">
+          <RealTime>00:04:41.8026128</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>BLJ1</Name>
