@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Kingdom Hearts 1</GameName>
+  <CategoryName>Destiny Island</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>4</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/04/2024 13:58:46" isStartedSynced="True" ended="06/04/2024 13:58:47" isEndedSynced="True" />
+    <Attempt id="2" started="06/04/2024 13:59:06" isStartedSynced="True" ended="06/04/2024 13:59:15" isEndedSynced="True" />
+    <Attempt id="3" started="06/04/2024 13:59:19" isStartedSynced="True" ended="06/04/2024 14:18:21" isEndedSynced="True" />
+    <Attempt id="4" started="06/04/2024 14:18:52" isStartedSynced="True" ended="06/04/2024 14:38:39" isEndedSynced="True">
+      <RealTime>00:19:47.2078235</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Tutorial</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:22.9064089</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:22.9064089</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:07:24.6268197</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:11:50</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:06:22.9064089</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Day 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:56.6595465</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:33.7531376</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:03:14.1216826</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:06:10</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:33.7531376</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Day 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:49.2548828</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:52.5953363</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:13:28</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:08:52.5953363</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Endboss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:19:47.2078235</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:57.9529407</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:02:27</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:57.9529407</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
