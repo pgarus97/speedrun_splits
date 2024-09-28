@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>
+  </GameName>
+  <CategoryName>
+  </CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>-00:59:59.9900000</Offset>
+  <AttemptCount>6</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="08/22/2024 14:19:04" isStartedSynced="True" ended="08/22/2024 14:20:01" isEndedSynced="True">
+      <PauseTime>00:00:15.5803906</PauseTime>
+    </Attempt>
+    <Attempt id="2" started="08/23/2024 17:25:21" isStartedSynced="True" ended="08/23/2024 17:25:28" isEndedSynced="True" />
+    <Attempt id="3" started="08/23/2024 17:27:35" isStartedSynced="True" ended="08/23/2024 17:27:43" isEndedSynced="True" />
+    <Attempt id="4" started="08/23/2024 17:27:57" isStartedSynced="True" ended="08/23/2024 17:28:18" isEndedSynced="True" />
+    <Attempt id="5" started="08/23/2024 17:28:23" isStartedSynced="True" ended="08/23/2024 17:28:24" isEndedSynced="True" />
+    <Attempt id="6" started="08/23/2024 17:28:34" isStartedSynced="True" ended="08/23/2024 17:28:43" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>
+      </Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
