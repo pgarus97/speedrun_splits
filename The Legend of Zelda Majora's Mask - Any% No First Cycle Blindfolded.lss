@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>The Legend of Zelda: Majora's Mask</GameName>
+  <CategoryName>Any% Blindfolded</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>25</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="05/09/2025 13:07:15" isStartedSynced="True" ended="05/09/2025 13:07:18" isEndedSynced="True" />
+    <Attempt id="2" started="05/09/2025 13:07:25" isStartedSynced="True" ended="05/09/2025 14:39:48" isEndedSynced="True" />
+    <Attempt id="3" started="05/14/2025 11:47:10" isStartedSynced="True" ended="05/14/2025 11:47:24" isEndedSynced="True" />
+    <Attempt id="4" started="05/14/2025 12:47:05" isStartedSynced="True" ended="05/14/2025 13:47:36" isEndedSynced="True">
+      <RealTime>01:00:31.0326496</RealTime>
+    </Attempt>
+    <Attempt id="5" started="05/14/2025 14:08:33" isStartedSynced="True" ended="05/14/2025 15:00:30" isEndedSynced="True">
+      <RealTime>00:51:57.2202772</RealTime>
+    </Attempt>
+    <Attempt id="6" started="05/15/2025 11:45:35" isStartedSynced="True" ended="05/15/2025 12:43:04" isEndedSynced="True">
+      <RealTime>00:57:28.5935490</RealTime>
+    </Attempt>
+    <Attempt id="7" started="05/15/2025 13:19:46" isStartedSynced="True" ended="05/15/2025 13:19:48" isEndedSynced="True" />
+    <Attempt id="8" started="05/15/2025 13:19:55" isStartedSynced="True" ended="05/15/2025 13:19:59" isEndedSynced="True" />
+    <Attempt id="9" started="05/15/2025 13:54:19" isStartedSynced="True" ended="05/15/2025 14:19:39" isEndedSynced="True" />
+    <Attempt id="10" started="05/15/2025 14:27:29" isStartedSynced="True" ended="05/15/2025 14:27:57" isEndedSynced="True" />
+    <Attempt id="11" started="05/15/2025 14:34:23" isStartedSynced="True" ended="05/15/2025 14:42:50" isEndedSynced="True" />
+    <Attempt id="12" started="05/15/2025 14:47:10" isStartedSynced="True" ended="05/15/2025 14:47:28" isEndedSynced="True" />
+    <Attempt id="13" started="05/15/2025 14:47:52" isStartedSynced="True" ended="05/15/2025 15:21:23" isEndedSynced="True">
+      <RealTime>00:33:30.5312939</RealTime>
+    </Attempt>
+    <Attempt id="14" started="05/16/2025 14:30:40" isStartedSynced="True" ended="05/16/2025 14:30:43" isEndedSynced="True" />
+    <Attempt id="15" started="05/16/2025 14:31:07" isStartedSynced="True" ended="05/16/2025 15:11:17" isEndedSynced="True">
+      <RealTime>00:40:09.6306140</RealTime>
+    </Attempt>
+    <Attempt id="16" started="05/16/2025 15:12:07" isStartedSynced="True" ended="05/16/2025 15:14:19" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Zora Mask</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:44.8337762</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:36.9861951</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:11:03.7740000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:06:36.9861951</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:06:44.8337762</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:06:40.3785560</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Bottle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:35.6950000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:49.5701366</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:06:47.9320000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:14:49.8613520</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:05:49.5701366</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Deku Palace</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:21.4820000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:26.4580000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:03:26.4580000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:11:54.7877064</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:04:55.9384316</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Moon Warp</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:21:34.4820000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:13</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:05:42.9213582</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Majora</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:33:29.9067955</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:55.4247955</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:17:00.8221316</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
