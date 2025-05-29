@@ -15,7 +15,7 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>20</AttemptCount>
+  <AttemptCount>17</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="04/07/2022 13:17:01" isStartedSynced="True" ended="04/07/2022 13:17:02" isEndedSynced="True" />
     <Attempt id="2" started="04/07/2022 13:17:10" isStartedSynced="True" ended="04/07/2022 13:43:19" isEndedSynced="True">
@@ -36,8 +36,6 @@
     <Attempt id="15" started="05/26/2025 12:59:36" isStartedSynced="True" ended="05/26/2025 13:23:51" isEndedSynced="True">
       <RealTime>00:24:14.8820685</RealTime>
     </Attempt>
-    <Attempt id="16" started="05/26/2025 13:45:51" isStartedSynced="True" ended="05/26/2025 13:45:57" isEndedSynced="True" />
-    <Attempt id="17" started="05/26/2025 13:46:18" isStartedSynced="True" ended="05/26/2025 13:46:53" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -89,9 +87,16 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:11.9323953</RealTime>
+        <RealTime>00:01:10.4950000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:10.4950000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:11.9323953</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Island</Name>
@@ -115,12 +120,19 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:56.5767350</RealTime>
+        <RealTime>00:00:42.6250000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:42.6250000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:56.5767350</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>King</Name>
+      <Name>Boss</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -128,7 +140,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:50.0150000</RealTime>
+        <RealTime>00:01:18.7360000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
@@ -144,13 +156,20 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:24:14.8820685</RealTime>
+          <RealTime>00:24:36.5083382</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:37.4967303</RealTime>
+        <RealTime>00:01:59.1230000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:59.1230000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:59.1230000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />
