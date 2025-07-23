@@ -2,7 +2,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Super Mario 64</GameName>
-  <CategoryName>0/1 Star Blindfolded</CategoryName>
+  <CategoryName>0/1 Star</CategoryName>
   <LayoutPath>
   </LayoutPath>
   <Metadata>
@@ -15,7 +15,7 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>315</AttemptCount>
+  <AttemptCount>323</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="11/17/2023 14:00:24" isStartedSynced="True" ended="11/17/2023 14:10:01" isEndedSynced="True" />
     <Attempt id="2" started="11/17/2023 14:10:42" isStartedSynced="True" ended="11/17/2023 14:20:13" isEndedSynced="True" />
@@ -350,8 +350,13 @@
     </Attempt>
     <Attempt id="288" started="07/14/2025 14:03:42" isStartedSynced="True" ended="07/14/2025 14:03:52" isEndedSynced="True" />
     <Attempt id="289" started="07/16/2025 13:55:29" isStartedSynced="True" ended="07/16/2025 13:56:36" isEndedSynced="True" />
-    <Attempt id="290" started="07/18/2025 12:49:18" isStartedSynced="True" ended="07/18/2025 12:51:08" isEndedSynced="True" />
-    <Attempt id="291" started="07/18/2025 12:51:08" isStartedSynced="True" ended="07/18/2025 13:14:32" isEndedSynced="True" />
+    <Attempt id="290" started="07/16/2025 14:04:20" isStartedSynced="True" ended="07/16/2025 14:06:31" isEndedSynced="True" />
+    <Attempt id="291" started="07/16/2025 14:06:33" isStartedSynced="True" ended="07/16/2025 14:08:55" isEndedSynced="True" />
+    <Attempt id="292" started="07/16/2025 14:21:35" isStartedSynced="True" ended="07/16/2025 14:27:31" isEndedSynced="True" />
+    <Attempt id="293" started="07/16/2025 14:27:56" isStartedSynced="True" ended="07/16/2025 14:35:11" isEndedSynced="True" />
+    <Attempt id="294" started="07/16/2025 14:40:40" isStartedSynced="True" ended="07/16/2025 14:45:57" isEndedSynced="True" />
+    <Attempt id="295" started="07/16/2025 14:46:25" isStartedSynced="True" ended="07/16/2025 14:48:55" isEndedSynced="True" />
+    <Attempt id="296" started="07/16/2025 14:49:03" isStartedSynced="True" ended="07/16/2025 14:55:16" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -369,8 +374,14 @@
       <SegmentHistory>
         <Time id="255" />
         <Time id="267" />
-        <Time id="291">
-          <RealTime>00:03:41.6662294</RealTime>
+        <Time id="292">
+          <RealTime>00:03:16.7296385</RealTime>
+        </Time>
+        <Time id="294">
+          <RealTime>00:03:27.8015652</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:03:32.8096166</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -443,8 +454,8 @@
         <Time id="287">
           <RealTime>00:04:34.4984324</RealTime>
         </Time>
-        <Time id="291">
-          <RealTime>00:03:36.4657663</RealTime>
+        <Time id="296">
+          <RealTime>00:02:32.3849715</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -525,9 +536,6 @@
         <Time id="287">
           <RealTime>00:00:28.0717470</RealTime>
         </Time>
-        <Time id="291">
-          <RealTime>00:00:29.0384240</RealTime>
-        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -606,9 +614,6 @@
         <Time id="267" />
         <Time id="287">
           <RealTime>00:01:32.0888851</RealTime>
-        </Time>
-        <Time id="291">
-          <RealTime>00:12:34.8235840</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
