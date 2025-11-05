@@ -15,7 +15,7 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>26</AttemptCount>
+  <AttemptCount>28</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="09/01/2022 14:28:43" isStartedSynced="True" ended="09/01/2022 14:56:03" isEndedSynced="True">
       <RealTime>00:27:19.3020000</RealTime>
@@ -52,66 +52,18 @@
     <Attempt id="23" started="10/14/2025 15:34:53" isStartedSynced="True" ended="10/14/2025 15:58:33" isEndedSynced="True">
       <RealTime>00:23:39.1326242</RealTime>
     </Attempt>
+    <Attempt id="24" started="10/14/2025 16:00:55" isStartedSynced="True" ended="10/14/2025 16:02:03" isEndedSynced="True" />
+    <Attempt id="25" started="10/14/2025 16:02:04" isStartedSynced="True" ended="10/14/2025 16:03:50" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>BOB1</Name>
+      <Name>DW Reds</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:02:05.6400000</RealTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:45.2677735</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="1">
-          <RealTime>00:01:59.3030000</RealTime>
-        </Time>
-        <Time id="2">
-          <RealTime>00:02:23.5510000</RealTime>
-        </Time>
-        <Time id="3">
-          <RealTime>00:01:56.8750000</RealTime>
-        </Time>
-        <Time id="4">
-          <RealTime>00:02:09.7440000</RealTime>
-        </Time>
-        <Time id="5">
-          <RealTime>00:02:06.7120000</RealTime>
-        </Time>
-        <Time id="6">
-          <RealTime>00:02:08.7920000</RealTime>
-        </Time>
-        <Time id="7">
-          <RealTime>00:02:05.6400000</RealTime>
-        </Time>
-        <Time id="8">
-          <RealTime>00:01:50.9520000</RealTime>
-        </Time>
-        <Time id="11">
-          <RealTime>00:02:03.4800000</RealTime>
-        </Time>
-        <Time id="12">
-          <RealTime>00:02:06.0560000</RealTime>
-        </Time>
-        <Time id="13">
-          <RealTime>00:01:49.7520000</RealTime>
-        </Time>
-        <Time id="16">
-          <RealTime>00:01:50.1690000</RealTime>
-        </Time>
-        <Time id="17">
-          <RealTime>00:01:49.2640000</RealTime>
-        </Time>
-        <Time id="20">
-          <RealTime>00:01:45.2778635</RealTime>
-        </Time>
-        <Time id="23">
-          <RealTime>00:01:45.2677735</RealTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>WF Cannonless</Name>
@@ -345,77 +297,6 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>PSS 1</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:54.4175939</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="23">
-          <RealTime>00:00:54.4175939</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>PSS 2</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:47.7670867</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="23">
-          <RealTime>00:00:47.7670867</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Darkworld</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:09:26.0390000</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:51.9590000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="1">
-          <RealTime>00:02:01.7760000</RealTime>
-        </Time>
-        <Time id="2">
-          <RealTime>00:02:26.0950000</RealTime>
-        </Time>
-        <Time id="5">
-          <RealTime>00:01:52.9120000</RealTime>
-        </Time>
-        <Time id="6">
-          <RealTime>00:01:57.9680000</RealTime>
-        </Time>
-        <Time id="7">
-          <RealTime>00:01:51.9590000</RealTime>
-        </Time>
-        <Time id="11">
-          <RealTime>00:02:06.8800000</RealTime>
-        </Time>
-        <Time id="13">
-          <RealTime>00:02:33.8720000</RealTime>
-        </Time>
-        <Time id="17">
-          <RealTime>00:01:53.3510000</RealTime>
-        </Time>
-        <Time id="23">
-          <RealTime>00:02:50.7883387</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
       <Name>SSL talon</Name>
       <Icon />
       <SplitTimes>
@@ -424,20 +305,11 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:05.7200000</RealTime>
+        <RealTime>00:04:36.8390000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="11">
-          <RealTime>00:01:08.7440000</RealTime>
-        </Time>
-        <Time id="13">
-          <RealTime>00:01:11.4800000</RealTime>
-        </Time>
-        <Time id="17">
-          <RealTime>00:01:05.7200000</RealTime>
-        </Time>
         <Time id="23">
-          <RealTime>00:01:33.6655350</RealTime>
+          <RealTime>00:06:06.6385543</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -521,6 +393,44 @@
         <Time id="23">
           <RealTime>00:00:34.1786003</RealTime>
         </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>LLL Bully</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="1" />
+        <Time id="2" />
+        <Time id="5" />
+        <Time id="6" />
+        <Time id="7" />
+        <Time id="11" />
+        <Time id="13" />
+        <Time id="17" />
+        <Time id="23" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>LLL Elevator</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="1" />
+        <Time id="2" />
+        <Time id="5" />
+        <Time id="6" />
+        <Time id="7" />
+        <Time id="11" />
+        <Time id="13" />
+        <Time id="17" />
+        <Time id="23" />
       </SegmentHistory>
     </Segment>
     <Segment>
