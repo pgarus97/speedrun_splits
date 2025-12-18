@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario 64</GameName>
+  <CategoryName>9 Star Blindfolded</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>4</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="11/26/2025 15:15:47" isStartedSynced="True" ended="11/26/2025 15:17:30" isEndedSynced="True" />
+    <Attempt id="2" started="11/26/2025 15:17:31" isStartedSynced="True" ended="11/26/2025 15:19:22" isEndedSynced="True" />
+    <Attempt id="3" started="11/26/2025 15:19:23" isStartedSynced="True" ended="11/26/2025 15:35:28" isEndedSynced="True">
+      <RealTime>00:16:05.2469985</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>BOB ChainChomp</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:50.5996449</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:47.3130000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:01:49.0220000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:50.5996449</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>WF Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:07.8982467</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:13.0720000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:01:15.6630000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:17.2986018</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>WF Cannonless</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:44.6255493</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:34.6060000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:00:36.5960000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:36.7273026</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>WF Blue</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:16.8208740</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:28.1120000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:00:30.0190000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:32.1953247</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>WF Tower</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:55.0079402</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:37.3440000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:00:46.9250000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:38.1870662</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>WF Owl</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:25.6157070</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:29.8080000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:00:31.1770000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:30.6077668</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>PSS Fast</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:16.9511365</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:50.6100000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:00:52.3050000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:51.3354295</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>PSS Box</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:00.0656880</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:42.9920000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:01:22.2310000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:43.1145515</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>BitDW</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:36.2340539</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:36.1683659</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:01:37.4070000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:36.1683659</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Tony Hawk</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:31.5755072</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:55.3414533</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:01:00.3220000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:55.3414533</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>DDD/BitFS</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:46.5606805</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:53.6210000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:03:23.3480000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:03:14.9851733</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>BLJ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:48.2740371</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:25.7600000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:00:53.2480000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:01.7133566</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sky</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:08.2225287</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:13.7200000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:02:39.9040000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:19.9484916</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Bowser3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:05.2469985</RealTime>
+        </SplitTime>
+        <SplitTime name="0 Star" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:55.4230000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:01:21.9780000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:57.0244698</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

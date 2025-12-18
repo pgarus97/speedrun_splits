@@ -15,16 +15,21 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>2</AttemptCount>
+  <AttemptCount>4</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/17/2025 16:23:40" isStartedSynced="True" ended="10/17/2025 16:35:09" isEndedSynced="True" />
+    <Attempt id="2" started="11/21/2025 16:36:43" isStartedSynced="True" ended="11/21/2025 16:52:34" isEndedSynced="True">
+      <RealTime>00:15:51.9278683</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
       <Name>Link</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:26.0969005</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:25.5813722</RealTime>
@@ -33,20 +38,28 @@
         <Time id="1">
           <RealTime>00:00:25.5813722</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:00:26.0969005</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Team Yoshi</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:09.5650500</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:43.7394841</RealTime>
+        <RealTime>00:01:43.4681495</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:01:43.7394841</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:43.4681495</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -54,14 +67,19 @@
       <Name>Fox</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:38.8639241</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:03.2887557</RealTime>
+        <RealTime>00:00:29.2988741</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:02:03.2887557</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:29.2988741</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -69,7 +87,9 @@
       <Name>BTT</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:53.7142989</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:14.8359343</RealTime>
@@ -78,13 +98,18 @@
         <Time id="1">
           <RealTime>00:00:14.8359343</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:00:14.8503748</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Mario Bros</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:12.5485600</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:42.8420000</RealTime>
@@ -93,13 +118,18 @@
         <Time id="1">
           <RealTime>00:00:42.8420000</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:01:18.8342611</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Pikachu</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:12.4505986</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:50.1267556</RealTime>
@@ -108,20 +138,28 @@
         <Time id="1">
           <RealTime>00:01:50.1267556</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:01:59.9020386</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Giant DK</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:39.4359601</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:57.5048763</RealTime>
+        <RealTime>00:00:26.9853615</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:00:57.5048763</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:26.9853615</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -129,7 +167,9 @@
       <Name>BTP</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:09.5419479</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:29.2292688</RealTime>
@@ -138,13 +178,18 @@
         <Time id="1">
           <RealTime>00:00:29.2292688</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:00:30.1059878</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Team Kirby</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:08.9586708</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:52.6494877</RealTime>
@@ -153,52 +198,95 @@
         <Time id="1">
           <RealTime>00:00:52.6494877</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:01:59.4167229</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Samus</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:17.2331145</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:08.2744437</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:08.2744437</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Metal Mario</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:04.6924030</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:47.4592885</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:47.4592885</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Race</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:08.3975830</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:03.7051800</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:03.7051800</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Polygon</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:51.2264248</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:03:42.8288418</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:03:42.8288418</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Master Hand</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:51.9278683</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:00.7014435</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:00.7014435</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>The Legend of Zelda: Ocarina of Time</GameName>
+  <CategoryName>Deku Tree Blindfolded</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>4</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="11/11/2025 16:13:02" isStartedSynced="True" ended="11/11/2025 16:14:32" isEndedSynced="True" />
+    <Attempt id="2" started="11/11/2025 16:14:42" isStartedSynced="True" ended="11/11/2025 16:16:30" isEndedSynced="True" />
+    <Attempt id="3" started="11/11/2025 16:16:57" isStartedSynced="True" ended="11/11/2025 16:18:37" isEndedSynced="True" />
+    <Attempt id="4" started="11/11/2025 16:18:46" isStartedSynced="True" ended="11/11/2025 16:27:39" isEndedSynced="True">
+      <RealTime>00:08:52.8746187</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Ghoma</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:19.0259538</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:19.0259538</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:04:19.0259538</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Slingshot</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:36.6841565</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:17.6582027</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:17.6582027</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>WrongWarp</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:52.8746187</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:16.1904622</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:03:16.1904622</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

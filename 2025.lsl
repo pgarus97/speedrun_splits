@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-1870</X>
-  <Y>226</Y>
+  <X>122</X>
+  <Y>211</Y>
   <VerticalWidth>673</VerticalWidth>
-  <VerticalHeight>865</VerticalHeight>
+  <VerticalHeight>786</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -68,7 +68,7 @@
         <Version>1.6</Version>
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>5</VisualSplitCount>
+        <VisualSplitCount>4</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>True</ShowThinSeparators>
@@ -152,7 +152,7 @@
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
+        <Accuracy>Tenths</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
