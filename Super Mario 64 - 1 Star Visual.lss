@@ -3,6 +3,8 @@
   <GameIcon />
   <GameName>Super Mario 64</GameName>
   <CategoryName>1 Star</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -10,9 +12,10 @@
     <Region>
     </Region>
     <Variables />
+    <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>21</AttemptCount>
+  <AttemptCount>25</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="05/06/2021 11:17:42" isStartedSynced="True" ended="05/06/2021 11:17:43" isEndedSynced="True" />
     <Attempt id="2" started="05/06/2021 11:22:31" isStartedSynced="True" ended="05/06/2021 11:25:47" isEndedSynced="True" />
@@ -41,6 +44,10 @@
       <RealTime>00:11:12.5910000</RealTime>
     </Attempt>
     <Attempt id="19" started="08/25/2021 16:22:35" isStartedSynced="True" ended="08/25/2021 16:23:44" isEndedSynced="True" />
+    <Attempt id="20" started="02/12/2026 13:36:38" isStartedSynced="True" ended="02/12/2026 13:38:13" isEndedSynced="True" />
+    <Attempt id="21" started="02/12/2026 13:38:14" isStartedSynced="True" ended="02/12/2026 13:39:27" isEndedSynced="True" />
+    <Attempt id="22" started="02/12/2026 13:39:28" isStartedSynced="True" ended="02/12/2026 13:42:10" isEndedSynced="True" />
+    <Attempt id="23" started="02/12/2026 13:42:10" isStartedSynced="True" ended="02/12/2026 13:48:50" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -85,6 +92,7 @@
         <Time id="18">
           <RealTime>00:01:55.3190000</RealTime>
         </Time>
+        <Time id="23" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -120,6 +128,9 @@
         <Time id="18">
           <RealTime>00:01:11.5120000</RealTime>
         </Time>
+        <Time id="23">
+          <RealTime>00:02:51.5180585</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -152,6 +163,9 @@
         <Time id="18">
           <RealTime>00:01:18.5670000</RealTime>
         </Time>
+        <Time id="23">
+          <RealTime>00:01:37.3195966</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -163,7 +177,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:44.2550000</RealTime>
+        <RealTime>00:00:42.0569950</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0">
@@ -180,6 +194,9 @@
         </Time>
         <Time id="18">
           <RealTime>00:00:48.0070000</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:00:42.0569950</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
