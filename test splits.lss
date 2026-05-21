@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario 64</GameName>
+  <CategoryName>16 Star</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>8</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/28/2026 13:46:56" isStartedSynced="False" ended="02/28/2026 13:46:58" isEndedSynced="False" />
+    <Attempt id="2" started="02/28/2026 15:32:21" isStartedSynced="False" ended="02/28/2026 15:32:30" isEndedSynced="False">
+      <RealTime>00:00:08.4898885</RealTime>
+    </Attempt>
+    <Attempt id="3" started="02/28/2026 15:32:36" isStartedSynced="False" ended="02/28/2026 15:32:43" isEndedSynced="True">
+      <RealTime>00:00:07.0501496</RealTime>
+    </Attempt>
+    <Attempt id="4" started="02/28/2026 15:32:56" isStartedSynced="False" ended="02/28/2026 15:33:07" isEndedSynced="False">
+      <RealTime>00:00:11.0878055</RealTime>
+    </Attempt>
+    <Attempt id="5" started="02/28/2026 15:56:54" isStartedSynced="False" ended="02/28/2026 15:57:01" isEndedSynced="True" />
+    <Attempt id="6" started="02/28/2026 15:57:33" isStartedSynced="False" ended="02/28/2026 15:57:42" isEndedSynced="False">
+      <RealTime>00:00:09.5086486</RealTime>
+    </Attempt>
+    <Attempt id="7" started="02/28/2026 15:58:10" isStartedSynced="True" ended="02/28/2026 15:58:15" isEndedSynced="True">
+      <RealTime>00:00:05.4084524</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>test</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:00.7991820</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.7991820</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:02.3361698</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:03.4124605</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:01.8075617</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:07.7695748</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:00.7991820</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>test2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:02.6823249</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:01.0079793</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:03.4267491</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:01.0079793</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:02.8738999</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:01.1040215</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:01.8831429</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>test3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:05.4084524</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.6350523</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:02.7269696</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:02.6297098</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:06.4063439</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:00.6350523</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:02.7261275</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

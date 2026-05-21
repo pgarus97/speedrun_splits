@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1294</X>
-  <Y>135</Y>
-  <VerticalWidth>673</VerticalWidth>
-  <VerticalHeight>810</VerticalHeight>
+  <X>778</X>
+  <Y>195</Y>
+  <VerticalWidth>688</VerticalWidth>
+  <VerticalHeight>661</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -199,20 +199,7 @@
       <Settings>
         <Version>1.0.0</Version>
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
-        <IsUploadOnResetEnabled>False</IsUploadOnResetEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
-        <IsToastEnabled>True</IsToastEnabled>
-        <IsLayoutPathUploadEnabled>False</IsLayoutPathUploadEnabled>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.RankedRuns.dll</Path>
-      <Settings>
-        <Version>1.0.0</Version>
-        <InstallId>dd92c693-c241-4b1e-b7a4-ca2c04f9116a</InstallId>
-        <ClientVersion>1.0.0.0</ClientVersion>
-        <IsRichPresenceEnabled>True</IsRichPresenceEnabled>
-        <ShowLoggedOutNotice>True</ShowLoggedOutNotice>
       </Settings>
     </Component>
   </Components>
