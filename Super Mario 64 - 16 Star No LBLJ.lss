@@ -7,11 +7,11 @@
   </LayoutPath>
   <Metadata>
     <Run id="" />
-    <Platform usesEmulator="False">
-    </Platform>
-    <Region>
-    </Region>
-    <Variables />
+    <Platform usesEmulator="False">Wii Virtual Console</Platform>
+    <Region>JPN / NTSC</Region>
+    <Variables>
+      <Variable name="Platform">VC</Variable>
+    </Variables>
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
