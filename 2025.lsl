@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1294</X>
-  <Y>135</Y>
+  <X>465</X>
+  <Y>159</Y>
   <VerticalWidth>673</VerticalWidth>
-  <VerticalHeight>810</VerticalHeight>
+  <VerticalHeight>876</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -58,7 +58,7 @@
         <DisplayGameIcon>True</DisplayGameIcon>
         <ShowRegion>False</ShowRegion>
         <ShowPlatform>False</ShowPlatform>
-        <ShowVariables>True</ShowVariables>
+        <ShowVariables>False</ShowVariables>
         <TextAlignment>0</TextAlignment>
       </Settings>
     </Component>
@@ -213,6 +213,20 @@
         <ClientVersion>1.0.0.0</ClientVersion>
         <IsRichPresenceEnabled>True</IsRichPresenceEnabled>
         <ShowLoggedOutNotice>True</ShowLoggedOutNotice>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.CurrentComparison.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
   </Components>
