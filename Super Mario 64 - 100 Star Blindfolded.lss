@@ -15,11 +15,12 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>3</AttemptCount>
+  <AttemptCount>4</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="07/16/2026 10:08:40" isStartedSynced="True" ended="07/16/2026 15:02:23" isEndedSynced="True">
       <RealTime>04:53:42.4928035</RealTime>
     </Attempt>
+    <Attempt id="2" started="07/30/2026 11:51:24" isStartedSynced="True" ended="07/30/2026 13:27:18" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -36,6 +37,9 @@
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:01:52.3707539</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:18.0686111</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -54,6 +58,9 @@
         <Time id="1">
           <RealTime>00:01:19.3228198</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:01:25.1634764</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -71,6 +78,9 @@
         <Time id="1">
           <RealTime>00:01:38.0928189</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:02:17.5950038</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -82,11 +92,14 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:34.8357549</RealTime>
+        <RealTime>00:01:14.3385149</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:01:34.8357549</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:14.3385149</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -105,6 +118,9 @@
         <Time id="1">
           <RealTime>00:07:04.3587370</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:07:44.3579429</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -116,11 +132,14 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:36.3922392</RealTime>
+        <RealTime>00:00:34.4021249</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:00:36.3922392</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:34.4021249</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -139,6 +158,9 @@
         <Time id="1">
           <RealTime>00:00:28.2320587</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:00:28.3845416</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -150,10 +172,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:41.2180000</RealTime>
+        <RealTime>00:00:39.0025402</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
+        <Time id="2">
+          <RealTime>00:00:39.0025402</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -169,6 +194,9 @@
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
+        <Time id="2">
+          <RealTime>00:01:05.9668717</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -185,6 +213,9 @@
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:02:15.8788387</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:19.8360774</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -203,6 +234,9 @@
         <Time id="1">
           <RealTime>00:00:42.9720155</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:00:56.8694271</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -214,11 +248,14 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:00.6887422</RealTime>
+        <RealTime>00:00:50.3248501</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:01:00.6887422</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:50.3248501</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -231,9 +268,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:09:06</RealTime>
+        <RealTime>00:05:02.9045877</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:05:02.9045877</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>CCM Slide</Name>
@@ -246,7 +287,11 @@
       <BestSegmentTime>
         <RealTime>00:00:47.6406959</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:48.4697767</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>CCM LilPengu</Name>
@@ -257,11 +302,14 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:56.2367896</RealTime>
+        <RealTime>00:00:38.9808503</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:00:56.2367896</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:38.9808503</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -274,9 +322,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:46.8670000</RealTime>
+        <RealTime>00:02:15.8761452</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:15.8761452</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>CCM Head</Name>
@@ -287,9 +339,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:20.0350000</RealTime>
+        <RealTime>00:00:57.2804987</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:57.2804987</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>BitDW Reds</Name>
@@ -300,9 +356,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:20:13.4780000</RealTime>
+        <RealTime>00:05:21.3294182</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:05:21.3294182</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>BOB Reds + WC</Name>
@@ -313,9 +373,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:08:54.2380000</RealTime>
+        <RealTime>00:07:43.0833879</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:07:43.0833879</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>BOB Secrets</Name>
@@ -332,6 +396,7 @@
         <Time id="1">
           <RealTime>00:01:47.6389581</RealTime>
         </Time>
+        <Time id="2" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -349,6 +414,9 @@
         <Time id="1">
           <RealTime>00:00:46.9616072</RealTime>
         </Time>
+        <Time id="2">
+          <RealTime>00:02:31.1135899</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -362,7 +430,9 @@
       <BestSegmentTime>
         <RealTime>00:01:25.2490000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2" />
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>LLL Logless</Name>
@@ -375,7 +445,9 @@
       <BestSegmentTime>
         <RealTime>00:00:37.8540000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2" />
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>LLL Tiny Bullies</Name>
@@ -388,7 +460,11 @@
       <BestSegmentTime>
         <RealTime>00:02:05.1750000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:03:10.3774435</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>LLL Lavaboost</Name>
@@ -401,7 +477,11 @@
       <BestSegmentTime>
         <RealTime>00:00:44.0730000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:55.2348205</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>LLL Big Bully</Name>
@@ -412,9 +492,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:02.2960000</RealTime>
+        <RealTime>00:00:37.6839214</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:37.6839214</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>LLL Elevator</Name>
@@ -427,7 +511,11 @@
       <BestSegmentTime>
         <RealTime>00:00:36.9850000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:04.8971524</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>HMC Amazing</Name>
@@ -438,9 +526,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:08.4390000</RealTime>
+        <RealTime>00:00:34.2843223</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:34.2843223</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>HMC Rolling + Toad1</Name>
@@ -453,7 +545,11 @@
       <BestSegmentTime>
         <RealTime>00:00:50.8020000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:51.6372337</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>HMC Toxic</Name>
@@ -466,7 +562,11 @@
       <BestSegmentTime>
         <RealTime>00:01:06.9770000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:26.1351658</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>HMC Switch</Name>
@@ -479,7 +579,11 @@
       <BestSegmentTime>
         <RealTime>00:01:10.0220000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:38.9224700</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>HMC Nessy</Name>
@@ -490,9 +594,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:35.4680000</RealTime>
+        <RealTime>00:00:35.4420855</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:35.4420855</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>HMC Reds</Name>
@@ -505,7 +613,11 @@
       <BestSegmentTime>
         <RealTime>00:04:16.1010000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:05:15.0938063</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>CotMC Reds</Name>
@@ -516,9 +628,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:27.5880000</RealTime>
+        <RealTime>00:02:37.7807380</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:37.7807380</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>VCutM Reds</Name>
@@ -529,9 +645,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:21.9760000</RealTime>
+        <RealTime>00:02:24.4252560</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:24.4252560</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>JRB Ship</Name>

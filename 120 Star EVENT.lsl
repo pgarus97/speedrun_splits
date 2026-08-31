@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>3339</X>
-  <Y>315</Y>
+  <X>3338</X>
+  <Y>318</Y>
   <VerticalWidth>673</VerticalWidth>
-  <VerticalHeight>876</VerticalHeight>
+  <VerticalHeight>674</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -40,36 +40,13 @@
   </Settings>
   <Components>
     <Component>
-      <Path>LiveSplit.Title.dll</Path>
-      <Settings>
-        <Version>1.7.3</Version>
-        <ShowGameName>True</ShowGameName>
-        <ShowCategoryName>True</ShowCategoryName>
-        <ShowAttemptCount>True</ShowAttemptCount>
-        <ShowFinishedRunsCount>False</ShowFinishedRunsCount>
-        <OverrideTitleFont>False</OverrideTitleFont>
-        <OverrideTitleColor>False</OverrideTitleColor>
-        <TitleFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></TitleFont>
-        <SingleLine>False</SingleLine>
-        <TitleColor>FFFFFFFF</TitleColor>
-        <BackgroundColor>FF2A2A2A</BackgroundColor>
-        <BackgroundColor2>FF131313</BackgroundColor2>
-        <BackgroundGradient>Vertical</BackgroundGradient>
-        <DisplayGameIcon>True</DisplayGameIcon>
-        <ShowRegion>False</ShowRegion>
-        <ShowPlatform>False</ShowPlatform>
-        <ShowVariables>False</ShowVariables>
-        <TextAlignment>0</TextAlignment>
-      </Settings>
-    </Component>
-    <Component>
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>4</VisualSplitCount>
-        <SplitPreviewCount>1</SplitPreviewCount>
+        <VisualSplitCount>5</VisualSplitCount>
+        <SplitPreviewCount>0</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>True</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
@@ -86,7 +63,7 @@
         <OverrideTimesColor>False</OverrideTimesColor>
         <ShowBlankSplits>True</ShowBlankSplits>
         <LockLastSplit>True</LockLastSplit>
-        <IconSize>24</IconSize>
+        <IconSize>27</IconSize>
         <IconShadows>True</IconShadows>
         <SplitHeight>2.9</SplitHeight>
         <CurrentSplitGradient>Horizontal</CurrentSplitGradient>
@@ -212,20 +189,6 @@
         <ClientVersion>1.0.0.0</ClientVersion>
         <IsRichPresenceEnabled>True</IsRichPresenceEnabled>
         <ShowLoggedOutNotice>True</ShowLoggedOutNotice>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.CurrentComparison.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
   </Components>
